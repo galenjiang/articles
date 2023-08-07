@@ -42,18 +42,18 @@ description: 关于markdown常用写法
 
 ## 链接
 ```Markdown
-[github](www.github.com)
+[github](https://www.github.com)
 ```
 
-[github](www.github.com)
+[github](https://www.github.com)
 
 
 
 ## 图片
 ```Markdown
-![github](www.github.com)
+![github](https://www.github.com)
 ```
-![image](www.github.com)
+![image](httpswww.github.com)
 
 ## 分割线
 ```Markdown
