@@ -53,7 +53,7 @@ description: 关于markdown常用写法
 ```Markdown
 ![github](https://www.github.com)
 ```
-![image](httpswww.github.com)
+![image](https://www.github.com)
 
 ## 分割线
 ```Markdown
