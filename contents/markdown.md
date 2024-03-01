@@ -41,7 +41,7 @@ description: 关于markdown常用写法
 3. 3
 
 ## 链接
-```Markdown
+```markdown
 [github](https://www.github.com)
 ```
 
